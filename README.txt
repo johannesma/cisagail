@@ -1,4 +1,6 @@
+	CISGAIL
 
+	A wordpress theme based off Starkers with stripe.js integration.
 
 	STARKERS
 
